@@ -19,5 +19,8 @@
 
 ## 5. CSS Level One - Basics
 
-* [25. Part1](5.-css-level-one-basics/25.-part1.md)
+* [25. Part1: link, h1{color: blue}](5.-css-level-one-basics/25.-part1.md)
+* [26. Part2: div, span](26.-part2-div-span.md)
+* [28: Part3: class, id, specific tag](28-part3-class-id-specific-tag.md)
+* [29. Part 4](29.-part-4.md)
 
