@@ -10,3 +10,14 @@
 * [11. Part 4: Divs and Spans](11.-part-4-divs-and-spans.md)
 * [12. Part 5: Attributes](12.-part-5-attributes.md)
 
+## 4. HTML Level Two - Advanced
+
+* [16. Part 2: Tables](4.-html-level-two-advanced/16.-part-2-tables.md)
+* [19. Part 4: Forms Basics](19.-part-4-forms-basics.md)
+* [20. Part 5: Forms and Labels](20.-part-5-forms-and-labels.md)
+* [21. Part 6: Forms and Selections](21.-part-6-forms-and-selections.md)
+
+## 5. CSS Level One - Basics
+
+* [25. Part1](5.-css-level-one-basics/25.-part1.md)
+
