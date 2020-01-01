@@ -34,4 +34,5 @@
 ## 8. Bootstrap Overview
 
 * [42. Bootstrap Introduction](8.-bootstrap-overview/42.-bootstrap-introduction.md)
+* [43. Part 1: Buttons](43.-part-1-buttons.md)
 
