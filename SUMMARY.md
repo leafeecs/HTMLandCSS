@@ -28,4 +28,10 @@
 ## 6. CSS Level Two - Advanced
 
 * [34. Part 1: Fonts](6.-css-level-two-advanced/34.-part-1-fonts.md)
+* [35. Part1: Fonts \(continued\)](35.-part1-fonts-continued.md)
+* [36. Part2: Box Model](36.-part2-box-model.md)
+
+## 8. Bootstrap Overview
+
+* [42. Bootstrap Introduction](8.-bootstrap-overview/42.-bootstrap-introduction.md)
 
