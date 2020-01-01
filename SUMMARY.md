@@ -22,5 +22,10 @@
 * [25. Part1: link, h1{color: blue}](5.-css-level-one-basics/25.-part1.md)
 * [26. Part2: div, span](26.-part2-div-span.md)
 * [28: Part3: class, id, specific tag](28-part3-class-id-specific-tag.md)
-* [29. Part 4](29.-part-4.md)
+* [29. Part 4: Inspect](29.-part-4.md)
+* [30. Part 5: Specificity](30.-part-5-specificity.md)
+
+## 6. CSS Level Two - Advanced
+
+* [34. Part 1: Fonts](6.-css-level-two-advanced/34.-part-1-fonts.md)
 
