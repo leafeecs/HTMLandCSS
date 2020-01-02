@@ -36,3 +36,7 @@
 * [42. Bootstrap Introduction](8.-bootstrap-overview/42.-bootstrap-introduction.md)
 * [43. Part 1: Buttons](43.-part-1-buttons.md)
 
+## 9. JavaScript Level One - Basics
+
+* [44. Part 1: Basics](9.-javascript-level-one-basics/44.-part-2-forms.md)
+
