@@ -38,6 +38,7 @@
 
 ## 9. JavaScript Level One - Basics
 
-* [44. Part 1: Basics](9.-javascript-level-one-basics/44.-part-2-forms.md)
-* [45. Part 2: Connecting Javascript](45.-part-2-connecting-javascript.md)
+* [50. Part 1: Basics](9.-javascript-level-one-basics/44.-part-2-forms.md)
+* [51. Part 2: Connecting Javascript](45.-part-2-connecting-javascript.md)
+* [54. Part 4: Operators](54.-part-4-operators.md)
 
